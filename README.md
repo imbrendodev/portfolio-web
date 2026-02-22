@@ -27,7 +27,7 @@ O objetivo é unir performance, organização e design moderno em uma aplicaçã
 ## 🔎 Preview
 
 <p align="center">
-  <img src="preview.png" alt="Preview do Portfólio" width="900"/>
+  <img src="pre.png" alt="Preview do Portfólio" width="900"/>
 </p>
 
 ---
